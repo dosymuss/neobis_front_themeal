@@ -1,0 +1,18 @@
+.mealOfDay{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.home{
+    padding: 60px 30px;
+}
+.mealImg{
+    border-radius: 8px;
+    box-shadow: 10px 12px 29px -14px rgba(0,0,0,.75);
+    object-fit: cover;
+    width: 70%;
+}
+.mealTitle{
+    color: #d49726;
+}

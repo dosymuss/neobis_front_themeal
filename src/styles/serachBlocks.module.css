@@ -1,0 +1,25 @@
+.searchInp{
+    background-color: #dcdcdc;
+    border: none;
+    border-radius: 3px;
+    font-family: Raleway;
+    outline: none;
+    transition: all .15s;
+    width: 346px;
+    height: 46px;
+    font-size: 16px;
+}
+.searchBtn{
+        background: #d49726;
+    border: 0;
+    border-radius: 0 3px 3px 0;
+    color: #fff;
+    cursor: pointer;
+    font-family: Raleway;
+    font-weight: 700;
+    height: 46px;
+    width: 100px;
+}
+.searchDiv{
+
+}

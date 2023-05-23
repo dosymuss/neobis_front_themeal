@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Open+Sans&display=swap');
 .App {
   text-align: center;
+  font-family: 'Cardo', serif;
 }
 
 .App-logo {
@@ -35,4 +37,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+header{
+  display: flex;
+  background-color: #d49726;
+  justify-content:center; 
+  height: 80px;
+  align-items: center;
+}
+a{
+  color: white;
+  font-size: 25px;
+  text-decoration: none;
 }
